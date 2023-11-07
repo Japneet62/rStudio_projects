@@ -1,7 +1,7 @@
 ############################################################################
 # Seminar: Analysis Methods with R  - Winter Term 2019-2020 - Session 1.11
 # - Exploratory factor analysis in R
-# @ Xinyang Liu - 2020.01.15
+# @ Japneet Bhatia - 2020.01.15
 # the MLFA section
 ############################################################################
 
