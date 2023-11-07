@@ -9,4 +9,4 @@ Sample codes to conduct descriptive and multivariate statistical analysis.
 4. session4.R - Categorical regression
 5. session5.R - Multiple regression and moderated regression
 6. session5.R - Spline regression
-7.  
+7. 
